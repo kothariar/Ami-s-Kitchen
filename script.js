@@ -13,7 +13,7 @@ const MENU = [
     { name: 'Cheese Corn Ball',      size: '10 pieces',         price: 8  },
     { name: 'Khichu',                size: '16 oz',             price: 5  },
     { name: 'Bread Pakoda',          size: '4 pieces',          price: 14 },
-    { name: 'Pavva',                 size: '16 oz',             price: 5  },
+    { name: 'Poha',                 size: '16 oz',             price: 5  },
     { name: 'Cutlet',                size: '6 pieces',          price: 9  },
   ]},
   { id: 'street',  title: 'Street & Mains', items: [
