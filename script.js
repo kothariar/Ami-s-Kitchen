@@ -43,7 +43,7 @@ const MENU = [
     { name: 'Ringan Batata',         size: '32 oz', price: 15 },
     { name: 'Sev Tamatar',           size: '32 oz', price: 15 },
     { name: 'Kacha Kela',            size: '32 oz', price: 15 },
-    { name: 'Methi Papad',           size: '32 oz', price: 16 },
+    { name: 'Methi Papad Gathiya',           size: '32 oz', price: 16 },
     { name: 'Rajma Masala',          size: '32 oz', price: 18 },
     { name: 'Stuffed Eggplant',      size: '32 oz', price: 16 },
     { name: 'Stuffed Karela',        size: '32 oz', price: 18 },
