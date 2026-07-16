@@ -48,6 +48,8 @@ const MENU = [
     { name: 'Stuffed Eggplant',      size: '32 oz', price: 16 },
     { name: 'Stuffed Karela',        size: '32 oz', price: 18 },
     { name: 'Kela Corn',             size: '32 oz', price: 16 },
+    { name: 'Bhindi Masala',         size: '32 oz', price: 22 },
+    { name: 'Bhindi Aloo',           size: '32 oz', price: 20 },
     { name: 'Gatta Sabji',           size: '32 oz', price: 16 },
     { name: 'Paneer Butter Masala',  size: '32 oz', price: 20 },
     { name: 'Palak Paneer',          size: '32 oz', price: 20 },
@@ -71,11 +73,6 @@ const MENU = [
     { name: 'Plain Ghee Khichdi w/ Kadhi', size: '16 oz', price: 8  },
     { name: 'Veg Pulav',                   size: '16 oz', price: 10 },
     { name: 'White Rice',                  size: '16 oz', price: 5  },
-  ]},
-  { id: 'paratha', title: 'Paratha', items: [
-    { name: 'Aloo Paratha',   size: '2 pieces', price: 6 },
-    { name: 'Paneer Paratha', size: '2 pieces', price: 7 },
-    { name: 'Onion Paratha',  size: '2 pieces', price: 6 },
   ]},
   { id: 'salad',   title: 'Salad', items: [
     { name: 'Channa Salad',      size: '16 oz', price: 8 },
